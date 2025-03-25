@@ -1,0 +1,9 @@
+# bugfix
+<!-- Bug FIX by Smeet Gohel -->
+
+1) Image path for the boat airpods was not found so changed that image path and made the image visible.
+2) In the order making process the order was not successfully placed, I have Fixed it now the order is placed successfully from the user side.
+3) Rating Page was not opening, I have Made changes. The problem was of image path provided so I have made the changes and now it has been properly working.
+ 4) Updated rating page to dynamic. It will show the rating if the rating is their in the api otherwise it will not show the raitng. Also the Rating indicator is working as per the Rating given.
+ 5) In the Checkout Page back button event was not working. I Have Fixed it.
+ 6) In Seller Module , The order list has been not displayed. Fixed it now and working Properly

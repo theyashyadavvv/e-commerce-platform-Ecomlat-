@@ -1,0 +1,1 @@
+enum ChoosePaymentMethod { Online, Offline }

@@ -1,0 +1,2 @@
+C:/Users/srk10/OneDrive/Desktop/Ecomupdate-main/ecomlat_master/android/app/.cxx/RelWithDebInfo/2h6b6z4g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/srk10/OneDrive/Desktop/Ecomupdate-main/ecomlat_master/android/app/.cxx/RelWithDebInfo/2h6b6z4g/arm64-v8a/CMakeFiles/rebuild_cache.dir
