@@ -1,5 +1,5 @@
 # bugfix
-<!-- Bug FIX by Smeet Gohel -->
+<!-- Bug FIX by yash -->
 
 1) Image path for the boat airpods was not found so changed that image path and made the image visible.
 2) In the order making process the order was not successfully placed, I have Fixed it now the order is placed successfully from the user side.
